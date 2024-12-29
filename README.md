@@ -41,7 +41,6 @@ Modify the content of the website according to your own portfolio needs. Here ar
 
 - Replace the project images in the "Projects" section with your own project screenshots.
 - Update the project descriptions and links to reflect your own projects.
-- Customize the contact form to connect with your preferred email service or backend solution.
 
 Feel free to explore the HTML, CSS, and JavaScript files to further customize the website's design and functionality.
 
